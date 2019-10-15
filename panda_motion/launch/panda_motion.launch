@@ -1,0 +1,4 @@
+<launch>
+    <node name="panda_motion" pkg="panda_motion" type="panda_motion" respawn="false" output="screen">
+    </node>
+</launch>
